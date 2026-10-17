@@ -32,13 +32,35 @@ Le definizioni complete, con il racconto di come è nato il BrandBook: [L'idea d
 | Anni | Cosa è successo |
 |---|---|
 | 1983–1993 | Informatica, laurea in Matematica alla Sapienza con tesi sulle reti neurali, ricercatore all'Istituto Superiore di Sanità |
-| 1994–2009 | Consulenze di tecnologia, siti web e formazione per aziende, associazioni e professionisti |
+| 1994–2009 | Consulenze di tecnologia, siti web e formazione per aziende, associazioni e professionisti, tra cui l'Unione Petrolifera |
 | 2000–2010 | Direzione tecnica e pre-vendita in ambito ICT; responsabile del Centro Formazione di Roma di Sun Microsystems |
 | 2000–2025 | Formazione e coaching: PNL (Practitioner, Master Practitioner, Trainer), comunicazione, public speaking |
-| 2010–2025 | Fondazione di NOCOM; certificazioni in intelligenza emotiva (Six Seconds), microespressioni e scienza della felicità |
+| 2010–2025 | Fondazione di NOCOM; certificazioni in intelligenza emotiva (Six Seconds), microespressioni e scienza della felicità. Nel 2016 NOCOM cura il coordinamento didattico del [Corso di perfezionamento «Gestione del cambiamento: PNL e resilienza»](https://www.unicampus.it/master-phd/corso-di-perfezionamento-in-gestione-del-cambiamento-pnl-e-resilienza-i-edizione/) all'Università Campus Bio-Medico di Roma ([locandina PDF](https://www.unicampus.it/2.0/wp-content/uploads/2023/08/SFPL_Corso_Perfezionamento_PNL_Resilienza-1.pdf), [English page](https://www.unicampus.it/en/masters-phd/advanced-course-in-change-management-pnl-and-resilience-i-edition/)) |
 | 2023–oggi | Nasce AI-utati: formazione di professionisti, aziende e docenti sull'integrazione di AI e competenze umane |
 
 Il percorso completo è su [Percorso e competenze](https://www.ai-utati.it/percorso-e-competenze/).
+
+### Il primo sito, prima di Google
+
+Il primo sito dell'Unione Petrolifera l'ho pensato quando Google non esisteva ancora, l'ADSL non c'era e ogni pagina si scriveva a mano, in HTML. Si entrava in rete con un modem a 36k e ogni minuto in linea finiva in bolletta.
+
+<p align="center">
+  <img src="assets/storia-unione-petrolifera-1998.jpg" width="420" alt="Home page dell'Unione Petrolifera nell'archivio di Internet, 26 gennaio 1998: una rete di icone attorno al logo UP; in fondo la firma «WebMaster Roberto Micarelli»">
+  <br>
+  <sub>La home page dell'Unione Petrolifera nell'archivio di Internet, 26 gennaio 1998. <a href="https://web.archive.org/web/19980126223427/http://www.unionepetrolifera.it/">Apri l'originale su Wayback Machine</a>.</sub>
+</p>
+
+In fondo si legge «WebMaster Roberto Micarelli», © 1997, ultimo aggiornamento 14 ottobre 1997.
+
+## Le certificazioni
+
+Una selezione dei titoli, dai corsi tecnici di Sun, HP, Veritas e Citrix alla PNL e alla comunicazione non verbale, fino all'intelligenza emotiva con Six Seconds e ai badge su AI di IBM e Google.
+
+<p align="center">
+  <img src="assets/certificazioni.jpg" width="100%" alt="Selezione di certificazioni di Roberto Micarelli: corsi tecnici (Sun, HP, Veritas, Citrix), PNL, microespressioni e intelligenza emotiva (Six Seconds), badge su AI (IBM, Google, Vanderbilt)">
+</p>
+
+Le certificazioni Six Seconds sono attive e si verificano nella [directory ufficiale](https://cert.6seconds.org/cert-directory?id=003QP0000026RfiYAE).
 
 ## I progetti
 
